@@ -1,0 +1,62 @@
+[
+{ "aicrazygirlfriend": [
+    "checkpoint",
+    "Conversation_Delta_Alertness",
+    "Conversation_Delta_Trust",
+    "end_scenario",
+    "FTUE_Dpad_Moved",
+    "FTUE_Escape",
+    "FTUE_Got_away_time",
+    "FTUE_Interaction",
+    "FTUE_Intro_End",
+    "FTUE_Kill",
+    "FTUE_Pan",
+    "FTUE_Scene_Loaded",
+    "FTUE_yuki_spoken",
+    "gameID",
+    "Puzzle_Complted",
+    "Puzzle_Interacted",
+    "Sus_Object_Seen",
+    "Time_Away_trigger",
+    "time_spent_in_scenario",
+    "Total_no_Chats"
+    ]
+},
+{ "vampireai": [
+   "FTUE_Conversation_end",
+    "FTUE_Conversation_started",
+    "FTUE_DPAD_used",
+    "FTUE_First_Knock",
+    "FTUE_PAN_used",
+    "FTUE_Scene_loaded",
+    "FTUE_Trust_Decrease",
+    "FTUE_Trust_Increase",
+    "FTUE_costume_switch_Wardrobe",
+    "FTUE_time_taken",
+    "FTUE_videos_watched",
+    "avg_time_per_conversation",
+    "bat_transformations",
+    "character_disguise",
+    "ending_reached",
+    "gameProgress",
+    "game_id",
+    "houses_knocked",
+    "houses_lost",
+    "houses_won",
+    "invited",
+    "no_of_chats",
+    "no_times_disguises_changed",
+    "npc_pattern",
+    "police_escape",
+    "police_level",
+    "police_starting_trust",
+    "police_state_triggered",
+    "time_spent_in_each_disguise",
+    "total_police_interactions",
+    "total_time_spent_police"
+    ]
+}
+]
+
+ 
+   
